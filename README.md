@@ -16,26 +16,31 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/polarsan17/Invernadero_ESP32">
-    <strong>Invernadero_ESP32</strong>  
-    <em>→ Temp, humidity, light, auto-watering/ventilation + Blynk dashboard</em>
-  </a>
-</p>
-
-<!-- Badges dinámicos del repo -->
 <div align="center">
   
-  <a href="https://github.com/polarsan17/Invernadero_ESP32/stargazers">
-    <img src="https://img.shields.io/github/stars/polarsan17/Invernadero_ESP32?style=for-the-badge&logo=github&color=yellow" alt="Stars">
+  <!-- ESP32 -->
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
   </a>
   
-  <a href="https://github.com/polarsan17/Invernadero_ESP32/network/members">
-    <img src="https://img.shields.io/github/forks/polarsan17/Invernadero_ESP32?style=for-the-badge&logo=github&color=blue" alt="Forks">
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   </a>
   
-  <a href="https://github.com/polarsan17/Invernadero_ESP32/commits/main">
-    <img src="https://img.shields.io/github/last-commit/polarsan17/Invernadero_ESP32?style=for-the-badge&logo=github&color=green" alt="Last Commit">
+  <!-- PlatformIO -->
+  <a href="https://platformio.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO">
+  </a>
+  
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  
+  <!-- Blynk (sin logo oficial) -->
+  <a href="https://blynk.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Blynk-8A2BE2?style=for-the-badge" alt="Blynk">
   </a>
 
 </div>
