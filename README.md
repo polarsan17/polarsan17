@@ -16,23 +16,29 @@
 
 ---
 
-<!-- HARDWARE -->
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-DHT22%20%7C%20LDR-FF8800?style=for-the-badge)
+<p align="center">
+  <a href="https://github.com/polarsan17/Invernadero_ESP32">
+    <strong>Invernadero_ESP32</strong>  
+    <em>→ Temp, humidity, light, auto-watering/ventilation + Blynk dashboard</em>
+  </a>
+</p>
 
-<!-- LENGUAJES -->
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- Badges dinámicos del repo -->
+<div align="center">
+  
+  <a href="https://github.com/polarsan17/Invernadero_ESP32/stargazers">
+    <img src="https://img.shields.io/github/stars/polarsan17/Invernadero_ESP32?style=for-the-badge&logo=github&color=yellow" alt="Stars">
+  </a>
+  
+  <a href="https://github.com/polarsan17/Invernadero_ESP32/network/members">
+    <img src="https://img.shields.io/github/forks/polarsan17/Invernadero_ESP32?style=for-the-badge&logo=github&color=blue" alt="Forks">
+  </a>
+  
+  <a href="https://github.com/polarsan17/Invernadero_ESP32/commits/main">
+    <img src="https://img.shields.io/github/last-commit/polarsan17/Invernadero_ESP32?style=for-the-badge&logo=github&color=green" alt="Last Commit">
+  </a>
 
-<!-- HERRAMIENTAS -->
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<!-- IOT / CLOUD -->
-![Blynk](https://img.shields.io/badge/Blynk-8A2BE2?style=for-the-badge&logo=blynk&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+</div>
 
 ---
 
