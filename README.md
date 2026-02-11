@@ -19,7 +19,7 @@
 </blockquote>
 
 <div align="center">
-[![ESP32](https://img.shields.io/badge/ESP32-Developing-brightgreen?style=for-the-badge&logo=arduino&logoColor=white&color=00979D)](https://www.espressif.com/en/products/socs/esp32) [![Docker](https://img.shields.io/badge/Docker-Basics-blue?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/) [![PlatformIO](https://img.shields.io/badge/PlatformIO-Active-orange?style=for-the-badge&logo=platformio&logoColor=white&color=EF2B2D)](https://platformio.org/) [![Blynk](https://img.shields.io/badge/Blynk-Connected-purple?style=for-the-badge&logo=blynk&logoColor=white&color=8A2BE2)](https://blynk.io/)
+[![ESP32](https://img.shields.io/static/v1?label=ESP32&message=Developing&color=00979D&style=for-the-badge&logo=arduino&logoColor=white)](https://www.espressif.com/en/products/socs/esp32) [![Docker](https://img.shields.io/static/v1?label=Docker&message=Basics&color=2496ED&style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![PlatformIO](https://img.shields.io/static/v1?label=PlatformIO&message=Active&color=EF2B2D&style=for-the-badge&logo=platformio&logoColor=white)](https://platformio.org/) [![Blynk](https://img.shields.io/static/v1?label=Blynk&message=Connected&color=8A2BE2&style=for-the-badge&logo=blynk&logoColor=white)](https://blynk.io/)
 </div>
 ---
 
