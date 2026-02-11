@@ -14,7 +14,7 @@
   — Scott Adams, The Dilbert Principle (1996)
 </blockquote>
 
----
+<br>
 
 <div align="center">
   
@@ -45,9 +45,11 @@
 
 </div>
 
----
+<br>
+<hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #ccc, transparent);">
+<br>
 
-### Quick about me
+### ▸ Quick about me
 
 I'm Jordi Genaró Solé, still in high school (2n de Batxillerat) in Catalonia, but spending most free time building stuff that senses the world and reacts to it.  
 
@@ -55,29 +57,55 @@ I don't write code from scratch like a pro — I team up with AI to get prototyp
 
 Current obsession: **smart greenhouse automation** with ESP32. Sensors everywhere, actuators doing work, remote control via app/cloud, and keeping it all tidy with basic Docker.
 
-My one-and-only (but growing) project:
+<br>
+
+#### ▸ My one-and-only (but growing) project
 
 <p align="center">
   <a href="https://github.com/polarsan17/Invernadero_ESP32">
-    <strong>Invernadero_ESP32</strong>  
-    <em>→ Temp, humidity, light, auto-watering/ventilation + Blynk dashboard</em>
+    <strong>⚡ Invernadero_ESP32</strong><br>
+    <em>Temp, humidity, light, auto-watering/ventilation + Blynk dashboard</em>
   </a>
 </p>
 
----
+<!-- Badges dinámicos del repositorio -->
+<div align="center">
+  
+  <a href="https://github.com/polarsan17/Invernadero_ESP32/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/polarsan17/Invernadero_ESP32?style=for-the-badge&logo=github&color=yellow" alt="Stars">
+  </a>
+  
+  <a href="https://github.com/polarsan17/Invernadero_ESP32/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/polarsan17/Invernadero_ESP32?style=for-the-badge&logo=github&color=blue" alt="Forks">
+  </a>
+  
+  <a href="https://github.com/polarsan17/Invernadero_ESP32/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/polarsan17/Invernadero_ESP32?style=for-the-badge&logo=github&color=green" alt="Last Commit">
+  </a>
 
-### What's next on the bench
+</div>
 
-- Dive deeper into ESP32 multitasking (FreeRTOS vibes)  
-- Switch to MQTT for proper IoT pub/sub  
-- Experiment with basic PID control for stability  
-- Nicer dashboards (Node-RED? simple Grafana?)  
-- Package more projects in Docker for easy share/run  
-- Maybe flirt with Rust embedded someday...  
+<br>
+<hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #ccc, transparent);">
+<br>
 
-Open to tips, ideas or collabs — just open an issue if something sparks!
+### ▸ What's next on the bench
 
----
+▹ Dive deeper into ESP32 multitasking (FreeRTOS vibes)  
+▹ Switch to MQTT for proper IoT pub/sub  
+▹ Experiment with basic PID control for stability  
+▹ Nicer dashboards (Node-RED? simple Grafana?)  
+▹ Package more projects in Docker for easy share/run  
+▹ Maybe flirt with Rust embedded someday...  
+
+<br>
+<p align="center">
+  <em>Open to tips, ideas or collabs — just open an issue if something sparks!</em>
+</p>
+
+<br>
+<hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, #ccc, transparent);">
+<br>
 
 <p align="center">
   <em>Building, breaking, learning, repeat 🌿⚡</em>
@@ -86,3 +114,5 @@ Open to tips, ideas or collabs — just open an issue if something sparks!
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarsan17&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="Contribution Streak" width="48%" />
 </div>
+
+<br>
