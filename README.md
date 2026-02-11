@@ -14,6 +14,7 @@
   — Scott Adams, The Dilbert Principle (1996)
 </blockquote>
 
+---
 <div align="center">
   <a href="https://www.espressif.com/en/products/socs/esp32">
     <img src="https://img.shields.io/static/v1?label=ESP32&message=Developing&color=00979D&style=for-the-badge&logo=arduino&logoColor=white" alt="ESP32">
