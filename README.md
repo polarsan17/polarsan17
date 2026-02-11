@@ -1,55 +1,56 @@
-<div align="center">
+<h1 align="center">Hi, I'm Jordi 👋</h1>
 
-  <!-- Banner opcional – descomenta i canvia l'enllaç si en puges un -->
-  <!-- ![banner](https://github.com/polarsan17/polarsan17/raw/main/banner.png) -->
+<p align="center">
+  <em>Passionate about building things that sense, connect, and grow — literally.</em>
+</p>
 
-  <h1>Jordi Genaró Solé</h1>
-  <p>Catalunya — Estudiant de 2n de Batxillerat</p>
+<p align="center">
+  <a href="https://github.com/polarsan17/Invernadero_ESP32">
+    <strong>Currently exploring:</strong> Smart greenhouses with ESP32
+  </a>
+  • Learning through building • Catalonia, Spain
+</p>
 
-  <br>
+---
 
-  <div style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin: 2rem 0;">
-    <a href="https://github.com/polarsan17/Invernadero_ESP32" style="text-decoration: none; color: inherit;">
-      <div style="
-        background: #1a1a1a;
-        border: 1px solid #333;
-        border-radius: 12px;
-        padding: 1.5rem 2rem;
-        min-width: 280px;
-        transition: all 0.2s;
-      ">
-        <h3 style="margin: 0 0 0.8rem 0; color: #a3e635;">Invernadero_ESP32</h3>
-        <p style="margin: 0; color: #aaa; font-size: 0.95rem;">
-          Monitorització i control automàtic d'hivernacle amb ESP32<br>
-          Temperatura · Humitat · Sòl · Reg · Blynk
-        </p>
-      </div>
-    </a>
-  </div>
+### About me
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=polarsan17&show_icons=true&theme=transparent&hide_border=true&hide_title=true&line_height=28&icon_color=a3e635&text_color=ddd&bg_color=00000000" 
-    alt="GitHub stats"
-    style="margin: 1.5rem 0;"
-  />
+I'm Jordi Genaró Solé, a high-school student (2nd year of Batxillerat) from Catalonia, diving into electronics, programming and IoT almost every day.  
 
-  <p style="color: #777; font-size: 0.9rem; margin-top: 3rem;">
-    fet amb curiositat i una mica d'ajuda d'IA
-  </p>
+I don't consider myself a "real" programmer yet — most of my code is born with the help of AI tools that I guide and debug. But that's exactly how I'm learning fast: asking good questions, understanding the output, tweaking it, and shipping working prototypes.
 
-</div>
+Right now my main focus is **making hardware + software talk nicely**, especially with microcontrollers like the ESP32. I also enjoy setting up basic Docker containers to keep projects clean and reproducible.
 
+- 🌱 Currently building: an intelligent greenhouse controller (temp, humidity, light, automated watering & ventilation + remote dashboard)  
+- ⚡ Always experimenting: sensors, actuators, Wi-Fi, cloud integration  
+- 🐳 Comfortable with: basic Docker (images, containers, docker-compose)  
+- 🔧 Tools I reach for daily: PlatformIO, VS Code, Blynk, AI assistants  
 
-<!-- Llengües (mínim i discret) -->
-<details style="margin: 4rem auto; max-width: 420px; text-align: center;">
-  <summary style="color: #888; cursor: pointer; list-style: none; font-size: 0.9rem;">
-    · català · castellano · english ·
-  </summary>
-  <div style="margin-top: 1.5rem; color: #999; font-size: 0.95rem;">
-    <p>Benvingut / Bienvenido / Welcome</p>
-    <p>Aquest és el meu espai personal de projectes mentre estudio batxillerat a Catalunya.</p>
-    <p>Actualment només hi ha un projecte públic: un sistema d'hivernacle intel·ligent amb ESP32.</p>
-  </div>
-</details>
+One project so far, but it's growing:
 
-<br><br>
+<p align="center">
+  <a href="https://github.com/polarsan17/Invernadero_ESP32">
+    <strong>Invernadero_ESP32</strong><br>
+    <em>Smart greenhouse automation with ESP32 – sensors, actuators, Blynk remote control</em>
+  </a>
+</p>
+
+---
+
+### What I'm learning / want to explore next
+
+- Deeper ESP32 & FreeRTOS  
+- Better sensor fusion & basic control loops  
+- MQTT instead of only Blynk  
+- Simple web dashboards (maybe Node-RED or Grafana)  
+- Packaging projects with Docker for easier deployment  
+- Maybe a bit of Rust for embedded in the future?  
+
+Open to ideas and feedback — feel free to open an issue or discussion in any repo!
+
+---
+
+<p align="center">
+  <em>"The best way to predict the future is to build it."</em><br>
+  — while learning, failing fast, and enjoying the process 🌿
+</p>
