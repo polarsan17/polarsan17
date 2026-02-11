@@ -17,18 +17,10 @@
 ---
 
 <div align="center">
-  <a href="https://www.espressif.com/en/products/socs/esp32">
-    <img src="https://img.shields.io/static/v1?label=ESP32&message=Developing&color=00979D&style=for-the-badge&logo=arduino&logoColor=white" alt="ESP32">
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/static/v1?label=Docker&message=Basics&color=2496ED&style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  </a>
-  <a href="https://platformio.org/">
-    <img src="https://img.shields.io/static/v1?label=PlatformIO&message=Active&color=EF2B2D&style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO">
-  </a>
-  <a href="https://blynk.io/">
-    <img src="https://img.shields.io/static/v1?label=Blynk&message=Connected&color=8A2BE2&style=for-the-badge&logo=blynk&logoColor=white" alt="Blynk">
-  </a>
+  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://img.shields.io/static/v1?label=ESP32&color=00979D&style=for-the-badge&logo=arduino&logoColor=white" alt="ESP32"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/static/v1?label=Docker&color=2496ED&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://platformio.org/"><img src="https://img.shields.io/static/v1?label=PlatformIO&color=EF2B2D&style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"></a>
+  <a href="https://blynk.io/"><img src="https://img.shields.io/static/v1?label=Blynk&color=8A2BE2&style=for-the-badge" alt="Blynk"></a>
 </div>
 
 ---
