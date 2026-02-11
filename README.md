@@ -16,12 +16,23 @@
 
 ---
 
-<div align="center">
-  <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://img.shields.io/static/v1?label=ESP32&color=00979D&style=for-the-badge&logo=arduino&logoColor=white" alt="ESP32"></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/static/v1?label=Docker&color=2496ED&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="https://platformio.org/"><img src="https://img.shields.io/static/v1?label=PlatformIO&color=EF2B2D&style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"></a>
-  <a href="https://blynk.io/"><img src="https://img.shields.io/static/v1?label=Blynk&color=8A2BE2&style=for-the-badge" alt="Blynk"></a>
-</div>
+<!-- HARDWARE -->
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-DHT22%20%7C%20LDR-FF8800?style=for-the-badge)
+
+<!-- LENGUAJES -->
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- HERRAMIENTAS -->
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<!-- IOT / CLOUD -->
+![Blynk](https://img.shields.io/badge/Blynk-8A2BE2?style=for-the-badge&logo=blynk&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ---
 
