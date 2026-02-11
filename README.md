@@ -70,13 +70,5 @@ Open to tips, ideas or collabs — just open an issue if something sparks!
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polarsan17&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=0" alt="GitHub Stats" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarsan17&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=0" alt="Contribution Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarsan17&layout=compact&theme=dark&hide_border=true&cache_seconds=0" alt="Top Languages" width="48%" />
 </div>
