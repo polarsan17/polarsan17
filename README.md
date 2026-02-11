@@ -14,12 +14,11 @@
   — Scott Adams, The Dilbert Principle (1996)
 </blockquote>
 
-<blockquote align="center" style="font-style: italic; opacity: 0.9;">
-  (Versión que más me mola: «Si no está roto, es que le faltan funciones» 🌱)
-</blockquote>
-
 <div align="center">
-[![ESP32](https://img.shields.io/static/v1?label=ESP32&message=Developing&color=00979D&style=for-the-badge&logo=arduino&logoColor=white)](https://www.espressif.com/en/products/socs/esp32) [![Docker](https://img.shields.io/static/v1?label=Docker&message=Basics&color=2496ED&style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![PlatformIO](https://img.shields.io/static/v1?label=PlatformIO&message=Active&color=EF2B2D&style=for-the-badge&logo=platformio&logoColor=white)](https://platformio.org/) [![Blynk](https://img.shields.io/static/v1?label=Blynk&message=Connected&color=8A2BE2&style=for-the-badge&logo=blynk&logoColor=white)](https://blynk.io/)
+  [![ESP32](https://img.shields.io/static/v1?label=ESP32&message=Developing&color=00979D&style=for-the-badge)](https://www.espressif.com/en/products/socs/esp32)
+  [![Docker](https://img.shields.io/static/v1?label=Docker&message=Basics&color=2496ED&style=for-the-badge)](https://www.docker.com/)
+  [![PlatformIO](https://img.shields.io/static/v1?label=PlatformIO&message=Active&color=EF2B2D&style=for-the-badge)](https://platformio.org/)
+  [![Blynk](https://img.shields.io/static/v1?label=Blynk&message=Connected&color=8A2BE2&style=for-the-badge)](https://blynk.io/)
 </div>
 ---
 
